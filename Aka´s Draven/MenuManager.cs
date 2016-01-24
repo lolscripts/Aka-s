@@ -40,7 +40,7 @@ namespace AkaDraven
 
         public static void Mainmenu()
         {
-            YMenu = MainMenu.AddMenu("Aka´s Draven", "akasdraven");
+            YMenu = MainMenu.AddMenu("Draven - Lolscript", "akasdraven");
             YMenu.AddGroupLabel("Bienvenidos al addon de Draaaaven - Lolscripts.net! :)");
         }
 
